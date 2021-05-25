@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 😄 Materials I want to share with others ...
+
 <!--
 **doogiejoekr/DoogieJoeKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
