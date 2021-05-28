@@ -1,6 +1,8 @@
 ### Hi. 😄 Materials I want to share with others ...
-- HP Elitedesk 800 G1 Tower(Haswell), OC 0.6.9, BigSur 11.2.3 : https://github.com/doogiejoekr/HP800G1TWR-OC-BigSur11.2.3
-- Gigabyte Z490 Aorus Elite(CometLake), OC 0.6.9, BigSur 11.2.3 : https://github.com/doogiejoekr/Z490-OC-BigSur11.2.3
+- HP Elitedesk 800 G1 Tower(Haswell), OC 0.6.9, BigSur 11.2.3 : 
+  - https://github.com/doogiejoekr/HP800G1TWR-OC-BigSur11.2.3
+- Gigabyte Z490 Aorus Elite(CometLake), OC 0.6.9, BigSur 11.2.3 : 
+  - https://github.com/doogiejoekr/Z490-OC-BigSur11.2.3
 - HP Prodesk 600 G2 DM(Skylake), OC 0.6.9, Bigsur 11.2.3:
 
 <!--
